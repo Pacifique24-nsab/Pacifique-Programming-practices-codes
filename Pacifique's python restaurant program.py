@@ -5,7 +5,7 @@ class Pacifique:
             "coffee": 2000,
             "black tea": 1500,
             "green tea": 2000,
-            "Burundian milk": 1800,
+            "burundian milk": 1800,
             "buffet": 6000,
             "chicken": 35000,
             "fish": 12000,
