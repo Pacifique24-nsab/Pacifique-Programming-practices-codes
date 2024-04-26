@@ -27,7 +27,7 @@ class Pacifique:
             "brochette": 2500,
             "brochette special": 9000,
             "salade": 4500,
-            "salade special(macaroni)": 15000
+            "macaroni": 15000
         }
 
     def welcome_customer(self):
