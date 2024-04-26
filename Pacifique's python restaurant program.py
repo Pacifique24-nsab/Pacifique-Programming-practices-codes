@@ -25,7 +25,7 @@ class Pacifique:
             "capati": 500,
             "umuceri": 3500,
             "brochette": 2500,
-            "Brochette special": 9000,
+            "brochette special": 9000,
             "salade": 4500,
             "salade special(macaroni)": 15000
         }
