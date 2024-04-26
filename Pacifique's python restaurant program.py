@@ -1,6 +1,6 @@
 class Pacifique:
     def __init__(self):
-        # Define the menu with the price of each item of my restaurant
+        # Define the menu with the price of each item of the restaurant
         self.menu = {
             "coffee": 2000,
             "black tea": 1500,
