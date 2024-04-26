@@ -15,7 +15,7 @@ class Pacifique:
             "cappucino coffe": 5000,
             "roasted Chicken": 25000,
             "One-half of a Chicken": 15000,
-            "Spaghetti":8000,
+            "spaghetti":8000,
             "Omolette": 4800,
             "Shawarma": 6500,
             "rolex": 4800,
