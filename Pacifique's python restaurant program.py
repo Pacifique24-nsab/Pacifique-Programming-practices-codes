@@ -14,7 +14,7 @@ class Pacifique:
             "akabenzi": 15000,
             "cappucino coffe": 5000,
             "roasted Chicken": 25000,
-            "1/2 of a Chicken": 15000,
+            "One-half of a Chicken": 15000,
             "Spaghetti":8000,
             "Omolette": 4800,
             "Shawarma": 6500,
