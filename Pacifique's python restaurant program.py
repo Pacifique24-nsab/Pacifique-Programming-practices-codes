@@ -18,7 +18,7 @@ class Pacifique:
             "Spaghetti":8000,
             "Omolette": 4800,
             "Shawarma": 6500,
-            "Rolex": 4800,
+            "rolex": 4800,
             "Special Rolex":9000,
             "humberger": 15000,
             "Sambusa":1500,
